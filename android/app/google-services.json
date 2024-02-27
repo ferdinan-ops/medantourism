@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388708259019",
+    "project_id": "medantourism-fcbee",
+    "storage_bucket": "medantourism-fcbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388708259019:android:033bfe6637e475157bb74e",
+        "android_client_info": {
+          "package_name": "com.medantourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388708259019-q1kunsk9ku2770f93gul8u2ktpgop7b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medantourism",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "388708259019-ovvpc6p37ar56bha6h5sbp84j1sbg3q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mgf2pkTk4-W9vrzVWsRSt0iamTe5QhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388708259019-ovvpc6p37ar56bha6h5sbp84j1sbg3q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
